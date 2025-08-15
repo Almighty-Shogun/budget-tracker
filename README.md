@@ -28,7 +28,7 @@ This project was originally created as a way to learn and explore the C programm
 # 🛠️ Building
 For building please see the requirements above.
 
-## Make
+### Make
 This is the preferred way of building the project on Linux environments. 
 ```shell
 git clone https://github.com/Almighty-Shogun/BudgetTracker.git
@@ -36,7 +36,7 @@ cd BudgetTracker
 make
 ```
 
-## CMake
+### CMake
 CMake enables the user to build the project on any other environment other than Linux. It also allows the use of an IDE to build the project automatically.
 ```shell
 git clone https://github.com/Almighty-Shogun/BudgetTracker.git
@@ -46,7 +46,7 @@ cmake ..
 make
 ```
 
-## Using an IDE
+### Using an IDE
 If you are using an IDE like Visual Studio or CLion, you can open the project and build it using the **Run/Debug configurations**.
 
 # 📦 Semantic Versioning (SemVer)
