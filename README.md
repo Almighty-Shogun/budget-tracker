@@ -11,7 +11,7 @@ This project was originally created as a way to learn and explore the C programm
 
 # 🧩 Installation
 1. Download the [latest](https://github.com/Almighty-Shogun/BudgetTracker/releases/latest) release.
-2. Download the `BudgetTracker-OS-X-Y-Z.zip` file.
+2. Download the `BudgetTracker-OS.zip` file.
    1. For Windows and Ubuntu only.
 3. Extract the archive.
 4. Run the `BudgetTracker.exe` file.
