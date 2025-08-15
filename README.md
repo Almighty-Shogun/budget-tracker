@@ -14,7 +14,7 @@ This project was originally created as a way to learn and explore the C programm
 2. Download the `BudgetTracker-OS.zip` file.
    1. For Windows and Ubuntu only.
 3. Extract the archive.
-4. Run the `BudgetTracker.exe` file.
+4. Run the `BudgetTracker.exe` or `BudgetTracker` file.
 
 > [!NOTE]
 > The menu should be self-explanatory and each option has a help option to explain what it does.
