@@ -1,5 +1,5 @@
 ﻿<a href="https://shogun.ms" target="_blank" rel="noopener">
-  <img src="https://cdn.shogun.ms/assets/shogun/Shogun_Icon_Small.png" alt="Shogun Icon" height="48"/>
+	<img src="https://cdn.shogun.ms/assets/branding/app-icon-256.svg" alt="Shogun app-icon" height="62"/>
 </a>
 
 ---
